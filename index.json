@@ -1,5 +1,11 @@
 {
 	"shared": {},
-	"server": {},
-	"client": {}
+	"server": {
+		"pollModerationEnabled": true,
+		"pollFlagsRate": 60,
+		"pollModerationRate": 60
+	},
+	"client": {
+		"playerListReportButtonVisible": true
+	}
 }
