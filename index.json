@@ -7,7 +7,7 @@
 		"pollModerationRate": 60
 	},
 	"client": {
-		"playerListReportButtonVisible": true,
+		"playerListReportButtonVisible": false,
 		"phoneInterfaceEnabled": false
 	}
 }
