@@ -1,11 +1,13 @@
 {
 	"shared": {},
 	"server": {
+		"checkModerationOnJoinEnabled": true,
 		"pollModerationEnabled": true,
 		"pollFlagsRate": 60,
 		"pollModerationRate": 60
 	},
 	"client": {
-		"playerListReportButtonVisible": true
+		"playerListReportButtonVisible": true,
+		"phoneInterfaceEnabled": false
 	}
 }
