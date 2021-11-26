@@ -2,7 +2,7 @@
 	"shared": {},
 	"server": {
 		"checkModerationOnJoinEnabled": false,
-		"pollModerationEnabled": false,
+		"pollModerationEnabled": true,
 		"pollFlagsRate": 60,
 		"pollModerationRate": 60,
 		"pollModerationScatter": 5
