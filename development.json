@@ -1,8 +1,8 @@
 {
 	"shared": {},
 	"server": {
-		"checkModerationOnJoinEnabled": false,
-		"pollModerationEnabled": false,
+		"checkModerationOnJoinEnabled": true,
+		"pollModerationEnabled": true,
 		"pollFlagsRate": 60,
 		"pollModerationRate": 60,
 		"pollModerationScatter": 5
